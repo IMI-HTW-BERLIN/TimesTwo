@@ -16,7 +16,9 @@ Play with time in this co-op puzzle game.
   - Time-logic/mechanics: Slow down player and objects time 
   
 ## Should Have
+  - Dangerous (moving) stuff, e.g. lasers, blades, ...
   - Gameplay -> More levels
+  - Power-ups (either items (dynamic) or specific regions (static))
   - Sounds
 
 ## Nice to Have
