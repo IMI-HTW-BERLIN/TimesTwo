@@ -21,7 +21,7 @@ void ATimeObjectActor::BeginPlay()
 // Called every frame
 void ATimeObjectActor::Tick(float DeltaTime)
 {
-    ATimeObjectActor::BeforeRender();
+    ATimeObjectActor::BeforeTick();
 	Super::Tick(DeltaTime);
 }
 

@@ -13,7 +13,7 @@ class TIMESTWO_API ATimeObjectActor : public AActor
 	
 public:
     UFUNCTION(BlueprintImplementableEvent, Category = "Custom Events")
-    void BeforeRender();
+    void BeforeTick();
 	// Sets default values for this actor's properties
 	ATimeObjectActor();
 
