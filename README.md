@@ -18,6 +18,13 @@ Templates used: Combination of First Person Template & Third Person Template (ch
 
 The models and materials used in this project are from the UE4 Starter Content and the project templates
 
+## Screenshots
+![](https://i.imgur.com/mlwnvWM.png)
+![](https://i.imgur.com/kCAQklU.png)
+![](https://i.imgur.com/eths6LI.png)
+![](https://i.imgur.com/zCVqkxO.png)
+![](https://i.imgur.com/qtqr7RC.png)
+
 ## Ideas
   - Time-Bending abilites: 
     - Pause/Continue time, Slow-down/Speed-up time
