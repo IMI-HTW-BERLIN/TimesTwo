@@ -2,6 +2,15 @@
 Play with time in this co-op puzzle game.
 ![](https://i.imgur.com/dCW1fH4.png)
 
+## Controls
+Controller | Keyboard | Action
+---|---|---
+Left Stick | WASD | Move
+A | Space | Jump
+Right Stick | Mouse | Aim
+Right Button | Left Mouse Button | Time Beam
+Start | Esc | Pause Menu
+
 ## Ideas
   - Time-Bending abilites: 
     - Pause/Continue time, Slow-down/Speed-up time
