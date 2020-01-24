@@ -13,7 +13,9 @@ Start | Esc | Pause Menu
 
 ## Sources
 Beam Sound Effect: https://www.youtube.com/watch?v=6EdjQcwGyiI
+
 Templates used: Combination of First Person Template & Third Person Template (character for multiplayer)
+
 The models and materials used in this project are from the UE4 Starter Content and the project templates
 
 ## Ideas
